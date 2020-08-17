@@ -7,7 +7,7 @@ const { JSDOM } = jsdom;
 const nodemailer = require('nodemailer')
 const mongoose = require('mongoose')
 
-const uri = "mongodb+srv://mgarg123:pricedroptest@price-drop-cluster.2dg9q.mongodb.net/price_db?retryWrites=true&w=majority";
+const uri = "mongo_db_uri";
 
 // const app = express()
 // app.use(cors())
